@@ -35,3 +35,4 @@ public:
 
 // Time complexity - O(n)
 // Space complexity - O(n)
+// If we have to solve this using O(1) space complexity, then we need to sort strings 's' and 't' and check if s == t.
